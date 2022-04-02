@@ -28,7 +28,7 @@ int main() {
     if (user_guess == number) {
         std::cout << "Hooray you guessed correctly !! :)" << std::endl;
     } else {
-    std::cout << "Oh No!!! guessed incorrectly :(" 
+    std::cout << "Oh No!!! guessed incorrectly :("
         << std::endl;
     }
     std::cout << "" << std::endl;
